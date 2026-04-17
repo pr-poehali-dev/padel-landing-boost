@@ -607,7 +607,7 @@ export default function Index() {
       <EconomicsSection />
       <ROICalculator />
       <CourtTypesSection />
-      <CasesSection />
+      {/* <CasesSection /> */}
       <ProcessSection />
       <AdvantagesSection />
       <FAQSection />
