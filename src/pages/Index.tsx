@@ -9,7 +9,7 @@ import {
 
 const HERO_IMG = "https://cdn.poehali.dev/files/8ac48b3f-5d69-4c60-80b0-722bbfb23820.png";
 const COURT_TOP = "https://cdn.poehali.dev/files/8331f762-bb90-452f-be80-5e75cc591b8c.png";
-const CLUB_IMG = "https://cdn.poehali.dev/projects/b355e1dc-5f4e-4b1c-9a00-59f1fcf09eab/files/e57fa335-3a00-4236-a74a-363c32bafd11.jpg";
+const CLUB_IMG = "https://cdn.poehali.dev/files/ce8c65ee-3a33-4dd9-9975-7229586d1336.png";
 
 // ── ROI Calculator ──────────────────────────────────────────────────────────
 function ROICalculator() {
