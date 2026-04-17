@@ -7,7 +7,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
-const HERO_IMG = "https://cdn.poehali.dev/projects/b355e1dc-5f4e-4b1c-9a00-59f1fcf09eab/files/fd3ffae6-5db8-4dee-8ca4-957239b7cfb3.jpg";
+const HERO_IMG = "https://cdn.poehali.dev/files/8ac48b3f-5d69-4c60-80b0-722bbfb23820.png";
 const COURT_TOP = "https://cdn.poehali.dev/projects/b355e1dc-5f4e-4b1c-9a00-59f1fcf09eab/files/c938a2d2-faa2-496a-af5b-fc3ae19fc9f7.jpg";
 const CLUB_IMG = "https://cdn.poehali.dev/projects/b355e1dc-5f4e-4b1c-9a00-59f1fcf09eab/files/e57fa335-3a00-4236-a74a-363c32bafd11.jpg";
 
