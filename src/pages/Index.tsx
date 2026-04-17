@@ -536,9 +536,7 @@ function HeroSection() {
       <div className="absolute inset-0 grid-lines opacity-30" />
 
       <nav className="absolute top-0 left-0 right-0 px-8 py-6 flex items-center justify-between z-20">
-        <div className="font-display text-2xl font-bold tracking-widest">
-          <span className="text-white">PADEL</span><span className="neon-text">PRO</span>
-        </div>
+        <img src="https://cdn.poehali.dev/projects/b355e1dc-5f4e-4b1c-9a00-59f1fcf09eab/bucket/b5169f5a-c346-46a8-b1c1-ea6897b2d186.png" alt="Everest" className="h-10 w-auto" />
         <div className="hidden md:flex items-center gap-8">
           {["Рынок", "Корты", "Кейсы", "FAQ"].map(item => (
             <a key={item} href="#" className="text-white/50 hover:text-[var(--neon)] text-sm font-display uppercase tracking-widest transition-colors">{item}</a>
@@ -617,9 +615,7 @@ export default function Index() {
 
       <footer className="border-t border-white/5 py-10">
         <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
-          <div className="font-display text-xl font-bold tracking-widest">
-            <span className="text-white">PADEL</span><span className="neon-text">PRO</span>
-          </div>
+          <img src="https://cdn.poehali.dev/projects/b355e1dc-5f4e-4b1c-9a00-59f1fcf09eab/bucket/b5169f5a-c346-46a8-b1c1-ea6897b2d186.png" alt="Everest" className="h-8 w-auto opacity-60" />
           <p className="text-white/20 text-xs">© 2024 PadelPro. Строительство падел-кортов под ключ.</p>
           <p className="text-white/20 text-xs">info@padelpro.ru · +7 (800) 555-00-00</p>
         </div>
